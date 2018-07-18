@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp10", "ConsoleApp10\ConsoleApp10.csproj", "{DB4584CE-68C2-4432-B07F-4AD5C04EA9AC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB4584CE-68C2-4432-B07F-4AD5C04EA9AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB4584CE-68C2-4432-B07F-4AD5C04EA9AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB4584CE-68C2-4432-B07F-4AD5C04EA9AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB4584CE-68C2-4432-B07F-4AD5C04EA9AC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D44F4E57-CA11-4E07-9454-D67DEE121CDC}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://theulan.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = ConsoleApp10\\ConsoleApp10.csproj
+		SccProjectName1 = ConsoleApp10
+		SccLocalPath1 = ConsoleApp10
+	EndGlobalSection
+EndGlobal
